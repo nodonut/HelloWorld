@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564209903422.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AB39B62B",
+    "lastKnownWriteTime" : 1564210971,
+    "last_content_update" : 1564210971907,
+    "path" : "C:/Users/apoor/Desktop/HelloWorld/make.Rmd",
+    "project_path" : "make.Rmd",
+    "properties" : {
+        "cursorPosition" : "34,3",
+        "last_setup_crc32" : "ECF9FDCBbb338d19",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
